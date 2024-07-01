@@ -1,2 +1,2 @@
 # Pygame Projects
- Games made wirh Pygame
+ Games made with Pygame
